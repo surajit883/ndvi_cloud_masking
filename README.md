@@ -1,5 +1,5 @@
 Overview
-The script aims to preprocess Landsat images by masking out clouds and shadows, followed by the calculation of NDVI, which is a commonly used index to quantify vegetation health and density.
+The script aims to preprocess Sentinel images by masking out clouds and shadows, followed by the calculation of NDVI, which is a commonly used index to quantify vegetation health and density.
 
 Usage
 To use the script, follow these steps:
